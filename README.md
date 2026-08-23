@@ -1,11 +1,14 @@
 # IMOD-Disabler
-IMOD Disabler is specifically designed to disable Interrupt Moderation (IMOD) with ease!
+IMOD Disabler is specifically designed to disable Interrupt Moderation (IMOD) by automatically downloading [Vally of Dooms](https://github.com/valleyofdoom/) | [XHCI-IMOD-Interval.ps1](https://github.com/valleyofdoom/PC-Tuning/blob/main/bin/XHCI-IMOD-Interval.ps1) script, downloading and setting up [RWEverything](https://rweverything.com/download/), disabling [Microsoft's Vulnerable Driver Blocklist](https://www.ninjaone.com/blog/enable-or-disable-microsoft-vulnerable-driver-blocklist/), disabling [Memory Integrity/Core Isolation](https://support.riotgames.com/en-us/riot/support-tools/enable-memory-integrity) as required to load **RWEverything**, and adding **XHCI-IMOD-Interval.ps1** to startup.
 
 <img width="978" height="512" alt="image" src="https://github.com/user-attachments/assets/b49418d6-8ff8-4e25-ac73-8be38ae08414" />
 
 ![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/IMOD-Disabler/total)
 
-# #1 Usage
+# #1 Important
+[IMOD Disabler](https://github.com/QuakedK/IMOD-Disabler/releases/tag/IMOD-Disabler) requires [RWEverything](https://rweverything.com/download/), but in order to run RWEverything you must disable [Microsoft's Vulnerable Driver Blocklist](https://www.ninjaone.com/blog/enable-or-disable-microsoft-vulnerable-driver-blocklist/). However in order to disable Microsoft's Vulnerable Driver Blocklist, Memory Integrity/Core Isolation must be disabled first. And because of that, games that require Memory Integrity/Core Isolation cannot be played with IMOD Disabler. Learn more here -> [Game Unsupported List](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md)
+
+# #2 Usage
 
 [IMOD Disabler - Manual](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Manual.bat) | The **Manual Version** functions as a menued version that allows the user to choose various options like downloading RWEverything, disabling/enabling Microsoft's Vulnerable Driver Blocklist, adding the IMOD Script to startup and testing the IMOD Scripts directly from the batch file! 
 
@@ -14,4 +17,11 @@ IMOD Disabler is specifically designed to disable Interrupt Moderation (IMOD) wi
 1. Download and choose your [IMOD Disabler](https://github.com/QuakedK/IMOD-Disabler/releases/tag/IMOD-Disabler) version.
 2. Right-click & run it as admin!
 
+# #3 Help
+[Discord Server](https://discord.gg/8NqDSMzYun) | A server for help from other users, mods and the creator.
 
+[Game Unsupported List](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md) | A simple list going over unsupported games.
+
+[IMOD Disabler Fixes](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md) | A simple list going over the most common fixes for things.
+
+[IMOD Disabler Changelog](https://github.com/QuakedK/IMOD-Disabler/blob/main/Changelog.md) | Covers the changes of all current documented IMOD Disabler Verisons.
