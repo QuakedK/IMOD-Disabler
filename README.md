@@ -14,6 +14,8 @@ IMOD Disabler is specifically designed to disable Interrupt Moderation (IMOD) by
 
 [IMOD Disabler - Automatic](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Automatic.bat) | The **Automatic Version** simply does everything automatically, like downloading RWEverything, disabling Microsoft's Vulnerable Driver Blocklist and adding the IMOD Script to startup. 
 
+[IMOD Tester](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Tester-V1.0.bat) | The **Test Version** simply tests assuming everything was setup beforehand. E.G. RWEverything being installed and Microsoft's Vulnerable Driver Blocklist is disabled.
+
 1. Download and choose your [IMOD Disabler](https://github.com/QuakedK/IMOD-Disabler/releases/tag/IMOD-Disabler) version.
 2. Right-click & run it as admin!
 
