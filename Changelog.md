@@ -11,3 +11,16 @@ The **Manual Version** functions as a menued version that allows the user to cho
 While the **Automatic Version** fully automated that process.
 
 ---
+
+**IMOD Tester V1.0**
+
+8/23/26 <3
+
+**Made*
+- Made a test version of IMOD Disabler from the existing Manual Version of the script.
+
+---
+
+
+
+
