@@ -27,3 +27,10 @@ IMOD Disabler is specifically designed to disable Interrupt Moderation (IMOD) by
 [IMOD Disabler Fixes](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md) | A simple list going over the most common fixes for things.
 
 [IMOD Disabler Changelog](https://github.com/QuakedK/IMOD-Disabler/blob/main/Changelog.md) | Covers the changes of all current documented IMOD Disabler Verisons.
+
+[IMOD Disabler Credits](https://github.com/QuakedK/IMOD-Disabler/blob/main/Credits.md) | Covers the script credits.
+
+# #4 Learn More
+All infomation relating to IMOD, can be found on [Vally of Dooms Github](https://github.com/valleyofdoom/PC-Tuning#1139-xhci-interrupt-moderation-imod-permalink)!
+
+<img width="903" height="957" alt="image" src="https://github.com/user-attachments/assets/48d97404-b10b-47e0-9d69-53996af29994" />
