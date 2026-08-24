@@ -14,7 +14,7 @@ IMOD Disabler is specifically designed to disable Interrupt Moderation (IMOD) by
 
 [IMOD Disabler - Automatic](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Automatic.bat) | The **Automatic Version** simply does everything automatically, like downloading RWEverything, disabling Microsoft's Vulnerable Driver Blocklist and adding the IMOD Script to startup. 
 
-[IMOD Disabler - Bypass](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Bypass.bat) | The **Bypass Version** runs IMOD.exe, completely bypassing the need for RWEverything and disabling Microsoft's Vulnerable Driver Blocklist + Memory Integrity/Core Isolation. Meaning you can run games that require  Memory Integrity/Core Isolation aka games listed in | [Game Unsupported List](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md).
+[IMOD Disabler - Bypass](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Bypass.bat) | The **Bypass Version** runs IMOD.exe, completely bypassing the need for RWEverything and disabling Microsoft's Vulnerable Driver Blocklist + Memory Integrity/Core Isolation. Meaning you can run games that require Memory Integrity/Core Isolation aka games listed in | [Game Unsupported List](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md).
 
 [IMOD Tester](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Tester-V1.0.bat) | The **Test Version** simply tests assuming everything was setup beforehand. E.G. RWEverything being installed and Microsoft's Vulnerable Driver Blocklist is disabled.
 
