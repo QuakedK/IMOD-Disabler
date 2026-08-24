@@ -8,6 +8,9 @@ IMOD Disabler is specifically designed to disable Interrupt Moderation (IMOD) by
 # #1 Important
 [IMOD Disabler](https://github.com/QuakedK/IMOD-Disabler/releases/tag/IMOD-Disabler) requires [RWEverything](https://rweverything.com/download/), but in order to run RWEverything you must disable [Microsoft's Vulnerable Driver Blocklist](https://www.ninjaone.com/blog/enable-or-disable-microsoft-vulnerable-driver-blocklist/). However in order to disable Microsoft's Vulnerable Driver Blocklist, Memory Integrity/Core Isolation must be disabled first. And because of that, games that require Memory Integrity/Core Isolation cannot be played with IMOD Disabler. Learn more here -> [Game Unsupported List](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md)
 
+> [!WARNING]
+> Use the [Bypass Method](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Bypass.bat) at your own risk, as it could get incorrectly/falsely flagged which may get you banned or restricted! Learn more here -> [IMOD Disabler Bypass Version Warings](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Bypass%20Version%20Warings.md#imod-disabler-bypass-version-warings).
+
 # #2 Usage
 
 [IMOD Disabler - Manual](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Manual.bat) | The **Manual Version** functions as a menued version that allows the user to choose various options like downloading RWEverything, disabling/enabling Microsoft's Vulnerable Driver Blocklist, adding the IMOD Script to startup and testing the IMOD Scripts directly from the batch file! 
@@ -25,6 +28,8 @@ IMOD Disabler is specifically designed to disable Interrupt Moderation (IMOD) by
 [Discord Server](https://discord.gg/8NqDSMzYun) | A server for help from other users, mods and the creator.
 
 [Game Unsupported List](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md) | A simple list going over unsupported games.
+
+[IMOD Disabler Bypass Version Warings](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Bypass%20Version%20Warings.md) | Warnings related to the Bypass Version.
 
 [IMOD Disabler Fixes](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md) | A simple list going over the most common fixes for things.
 
