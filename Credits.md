@@ -17,3 +17,17 @@ I do not own nor created the IMOD Script, the script and information regarding i
 
 # Backup & Restore Scripts:
 The Backup & Restore Scripts are created by me, based off of the existing XHCI-IMOD-Interval.ps1 script.
+
+___
+
+# Bypass Method Credit: 
+Credit: Nova OS.
+
+Discord: https://discord.gg/QnS25PEKXs
+
+IMOD Exe: In the Nova OS V4 Playbook.
+
+Clarification/Transparency:
+I do not own nor created the IMOD.exe.
+
+___
