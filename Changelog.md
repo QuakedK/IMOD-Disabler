@@ -21,6 +21,16 @@ While the **Automatic Version** fully automated that process.
 
 ---
 
+**IMOD Bypass V1.0**
+
+8/24/26 <3
+
+**Made*
+- Made a bypass version of IMOD Disabler, that avoids using RWEverything, but still uses WinRing0 + inpoutx64 drivers. Allowing the user to play games that require Memory Integrity/Core Isolation.
+
+---
+
+
 
 
 
