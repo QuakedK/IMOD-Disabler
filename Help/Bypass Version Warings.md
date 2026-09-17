@@ -1,4 +1,4 @@
-# IMOD Disabler Bypass Version Warings
+# IMOD Disabler Bypass Version Warnings
 
 > [!WARNING]
 > The bypass method avoids using RWEverything, but still uses WinRing0 + inpoutx64 drivers and an IMOD.exe which could theoretically get flagged at some point.
