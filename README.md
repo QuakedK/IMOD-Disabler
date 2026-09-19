@@ -31,7 +31,7 @@ IMOD Disabler is specifically designed to disable Interrupt Moderation (IMOD) by
 
 [IMOD Disabler Bypass Version Warings](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Bypass%20Version%20Warings.md) | Warnings related to the Bypass Version.
 
-[IMOD Disabler Fixes](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md) | A simple list going over the most common fixes for things.
+[IMOD Disabler Fixes](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/IMOD%20Disabler%20Fixes.md) | A simple list going over the most common fixes for things.
 
 [IMOD Disabler Changelog](https://github.com/QuakedK/IMOD-Disabler/blob/main/Changelog.md) | Covers the changes of all current documented IMOD Disabler Verisons.
 
