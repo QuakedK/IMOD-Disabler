@@ -8,20 +8,19 @@ IMOD Disabler is specifically designed to disable Interrupt Moderation (IMOD) by
 # #1 Important
 [IMOD Disabler](https://github.com/QuakedK/IMOD-Disabler/releases/tag/IMOD-Disabler) requires [RWEverything](https://rweverything.com/download/), but in order to run RWEverything you must disable [Microsoft's Vulnerable Driver Blocklist](https://www.ninjaone.com/blog/enable-or-disable-microsoft-vulnerable-driver-blocklist/). However in order to disable Microsoft's Vulnerable Driver Blocklist, Memory Integrity/Core Isolation must be disabled first. And because of that, games that require Memory Integrity/Core Isolation cannot be played with IMOD Disabler. Learn more here -> [Game Unsupported List](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md)
 
-> [!WARNING]
-> Use the [Bypass Method](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Bypass.bat) at your own risk, as it could get incorrectly/falsely flagged which may get you banned or restricted! Learn more here -> [IMOD Disabler Bypass Version Warings](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Bypass%20Version%20Warings.md#imod-disabler-bypass-version-warings).
+> [!NOTE]
+> Use my [xHCI IMOD Disabler](https://github.com/QuakedK/xHCI-IMOD-Disabler) to completely bypass the need to disable Microsoft's Vulnerable Driver Blocklist and Memory Integrity/Core Isolation.
+> Meaning it can be used on the [Unsupported Games](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md)!
+> 
+> TLDR: [IMOD Disabler - Bypass](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Bypass.bat) has been updated and now is [xHCI IMOD Disabler](https://github.com/QuakedK/xHCI-IMOD-Disabler). - **(Use the Latest/Best version aka xHCI IMOD Disabler)**
 
 # #2 Usage
 
-[IMOD Disabler - Manual](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Manual.bat) | The **Manual Version** functions as a menued version that allows the user to choose various options like downloading RWEverything, disabling/enabling Microsoft's Vulnerable Driver Blocklist, adding the IMOD Script to startup and testing the IMOD Scripts directly from the batch file! 
+[IMOD Disabler - Manual](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD/IMOD-Disabler-V1.1-Manual.bat) | The **Manual Version** functions as a menued version that allows the user to choose various options like downloading RWEverything, disabling/enabling Microsoft's Vulnerable Driver Blocklist, adding the IMOD Script to startup and testing the IMOD Scripts directly from the batch file! 
 
-[IMOD Disabler - Automatic](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Automatic.bat) | The **Automatic Version** simply does everything automatically, like downloading RWEverything, disabling Microsoft's Vulnerable Driver Blocklist and adding the IMOD Script to startup. 
+[IMOD Disabler - Automatic](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD/IMOD-Disabler-V1.1-Automatic.bat) | The **Automatic Version** simply does almost everything automatically, like downloading RWEverything, disabling Microsoft's Vulnerable Driver Blocklist and allowing the user to choose their startup method in order to add IMOD Script to startup. 
 
-[IMOD Disabler - Bypass](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Disabler-V1.0-Bypass.bat) | The **Bypass Version** runs IMOD.exe, completely bypassing the need for RWEverything and disabling Microsoft's Vulnerable Driver Blocklist + Memory Integrity/Core Isolation. Meaning you can run games that require Memory Integrity/Core Isolation aka games listed in | [Game Unsupported List](https://github.com/QuakedK/IMOD-Disabler/blob/main/Help/Game%20Unsupported%20List.md).
-
-[IMOD Tester](https://github.com/QuakedK/IMOD-Disabler/releases/download/IMOD-Disabler/IMOD-Tester-V1.0.bat) | The **Test Version** simply tests assuming everything was setup beforehand. E.G. RWEverything being installed and Microsoft's Vulnerable Driver Blocklist is disabled.
-
-1. Download and choose your [IMOD Disabler](https://github.com/QuakedK/IMOD-Disabler/releases/tag/IMOD-Disabler) version.
+1. Download and choose your [IMOD Disabler](https://github.com/QuakedK/IMOD-Disabler/releases/tag/IMOD) version.
 2. Right-click & run it as admin!
 
 # #3 Help
