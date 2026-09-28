@@ -30,7 +30,39 @@ While the **Automatic Version** fully automated that process.
 
 ---
 
+**IMOD Disabler V1.1**
 
+9/28/26 <3
 
+**The Manual Version:**
+
+**Added**
+- Added BSOD warning to the Run Registry startup method.
+- Added xHCI-IMOD-Disabler download/github option.
+
+**Fixed**
+- Fixed/Changed the Task Scheduler command from onstart to onlogon.
+
+---
+
+**The Automatic Version:**
+
+**Added**
+- Added an RWEverything check, to see if it's installed or not already.
+- Added Startup Options.
+- Added BSOD warning to the Run Registry startup method.
+
+**Fixed**
+- Fixed/Removed "Microsoft Vulnerable Driver Blocklist." randomly being in the "Add IMOD Script to startup" comment.
+
+---
+
+**Other Versions**
+
+**Removed**
+- Removed IMOD Tester, the Manual version does that already.
+- Removed the Bypass Version, IMOD.exe has been completely rebuilt and is now called [xHCI IMOD Disabler](https://github.com/QuakedK/xHCI-IMOD-Disabler).
+
+---
 
 
